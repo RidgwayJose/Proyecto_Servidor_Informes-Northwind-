@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "RS_Northwind", "RS_Northwind\RS_Northwind.rptproj", "{544603CE-ED8A-4E61-9417-3DA45ADB38B9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{544603CE-ED8A-4E61-9417-3DA45ADB38B9}.Debug|Default.ActiveCfg = DebugLocal
+		{544603CE-ED8A-4E61-9417-3DA45ADB38B9}.Debug|Default.Build.0 = DebugLocal
+		{544603CE-ED8A-4E61-9417-3DA45ADB38B9}.Debug|Default.Deploy.0 = DebugLocal
+		{544603CE-ED8A-4E61-9417-3DA45ADB38B9}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{544603CE-ED8A-4E61-9417-3DA45ADB38B9}.DebugLocal|Default.Build.0 = DebugLocal
+		{544603CE-ED8A-4E61-9417-3DA45ADB38B9}.Release|Default.ActiveCfg = Release
+		{544603CE-ED8A-4E61-9417-3DA45ADB38B9}.Release|Default.Build.0 = Release
+		{544603CE-ED8A-4E61-9417-3DA45ADB38B9}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CD567641-BC3F-4BCF-ACA6-792FD3FF3C4F}
+	EndGlobalSection
+EndGlobal
